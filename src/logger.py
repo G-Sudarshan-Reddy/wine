@@ -1,5 +1,5 @@
+import logging
 import os
-import sys
 from datetime import datetime
 
 log_file=f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
